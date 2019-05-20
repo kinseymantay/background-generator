@@ -1,0 +1,30 @@
+body {
+/*	font: 'Raleway', sans-serif;*/
+    font-family: 'IBM Plex Sans', sans-serif;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .2em;
+    top: 15%;
+	background: linear-gradient(to right, #6d6d6d , #6d6d6d); /* Standard syntax */
+}
+
+h1 {
+/*    font: 600 3.5em 'Raleway', sans-serif;*/
+    font-family: 600 4em 'IBM Plex Sans', sans-serif;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .2em;
+    width: 100%;
+}
+
+h3 {
+	font-family: 900 1em 'IBM Plex Sans', sans-serif;
+    /*font: 900 1em 'Raleway', sans-serif;*/
+    color: white;
+    text-align: center;
+    text-transform: none;
+    letter-spacing: 0.01em;
+
+}
